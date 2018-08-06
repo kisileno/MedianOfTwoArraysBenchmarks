@@ -1,6 +1,6 @@
 # MedianOfTwoArraysBenchmarks
 last run:
-
+```
 Benchmark                                              Mode     Cnt      Score   Error  Units
 MedianBenchmark.arrayCopyTest                        sample  206562    144.927 ± 1.718  us/op
 MedianBenchmark.arrayCopyTest:arrayCopyTest·p0.00    sample            115.712          us/op
@@ -29,4 +29,4 @@ MedianBenchmark.mergeTest:mergeTest·p0.99            sample            119.424 
 MedianBenchmark.mergeTest:mergeTest·p0.999           sample            304.332          us/op
 MedianBenchmark.mergeTest:mergeTest·p0.9999          sample           1278.803          us/op
 MedianBenchmark.mergeTest:mergeTest·p1.00            sample           6987.776          us/op
-
+```
